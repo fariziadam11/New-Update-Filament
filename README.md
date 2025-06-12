@@ -138,7 +138,7 @@ php artisan serve
 
 ## Lisensi
 
-Proyek ini dilisensikan di bawah [MIT License](LICENSE.md).
+Proyek ini dilisensikan di bawah [MIT License](LICENSE).
 
 ## Kontak
 
