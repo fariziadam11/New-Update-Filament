@@ -143,5 +143,5 @@ Proyek ini dilisensikan di bawah [MIT License](LICENSE.md).
 ## Kontak
 
 Untuk pertanyaan dan dukungan, silakan hubungi:
-- Email: [email@example.com]
-- Website: [www.example.com]
+- Email: [fariziadam508@gmail.com]
+- Website: [https://fariziadam.netlify.app]
